@@ -1,0 +1,8 @@
+pip install pydicom
+pip install opencv-python
+pip install numpy
+
+
+
+
+#install all the above commands one by one in command prompt
